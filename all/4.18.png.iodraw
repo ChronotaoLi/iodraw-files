@@ -20,7 +20,7 @@
           <mxGeometry x="96" y="352" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qp4yqLYpApx-ithYk_nL-6" value="&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;avatar_url&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="393" y="363" width="120" height="80" as="geometry" />
+          <mxGeometry x="422" y="365" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qp4yqLYpApx-ithYk_nL-7" value="&lt;span style=&quot;font-family: -webkit-standard; font-size: medium; text-align: start;&quot;&gt;created_at&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="613" y="371" width="120" height="80" as="geometry" />
@@ -87,6 +87,9 @@
             <mxPoint x="388" y="289" as="sourcePoint" />
             <mxPoint x="438" y="239" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fJzBWK7W6mc_ghJwzOOg-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="363" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

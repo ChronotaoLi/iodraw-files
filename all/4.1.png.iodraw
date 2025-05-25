@@ -13,7 +13,7 @@
         <mxCell id="kdTZ00VaMxXouG-N0Oly-3" value="&lt;div style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;角色管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="kdTZ00VaMxXouG-N0Oly-4" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="kdTZ00VaMxXouG-N0Oly-4" value="&lt;div style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(163, 21, 21);&quot;&gt;角色记忆管理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kdTZ00VaMxXouG-N0Oly-5" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">

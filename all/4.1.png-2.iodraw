@@ -56,7 +56,7 @@
           <mxGeometry x="895" y="422" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kdTZ00VaMxXouG-N0Oly-33" value="&lt;div style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;用户功能模块&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="248" y="192" width="40" height="120" as="geometry" />
+          <mxGeometry x="223" y="192" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kdTZ00VaMxXouG-N0Oly-34" value="&lt;div style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;span style=&quot;&quot;&gt;智能体功能模块&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="568" y="192" width="40" height="120" as="geometry" />

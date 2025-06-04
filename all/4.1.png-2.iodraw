@@ -65,7 +65,7 @@
           <mxGeometry x="828" y="192" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kdTZ00VaMxXouG-N0Oly-36" value="&lt;div style=&quot;text-align: start; background-color: rgb(255, 255, 255); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;div style=&quot;font-weight: normal; line-height: 18px;&quot;&gt;基于多智能体协作的AI创作平台&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=west;horizontal=1;verticalAlign=middle;fontStyle=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="398" y="60" width="200" height="40" as="geometry" />
+          <mxGeometry x="398" y="62" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kdTZ00VaMxXouG-N0Oly-37" value="" style="endArrow=none;html=1;rounded=0;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
